@@ -114,6 +114,9 @@ http://layaair.ldc.layabox.com/api/
 ##Documentation Tutorial
 http://ldc.layabox.com/index.php?m=content&c=index&a=show&catid=8&id=10
 
+##Wiki guide installation
+https://github.com/layabox/layaair/wiki
+
 ##Developer Center
 
 http://ldc.layabox.com/
